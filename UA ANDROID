@@ -1,367 +1,374 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="SULUK♥SPORT",LFC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK INTRO
+https://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",SULUK ANTHEM
+https://www.dropbox.com/s/4vml0og02nh7ekn/INTROIPTV.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",YNWA
+https://www.dropbox.com/s/mfnqkiprmsldfr9/YNWA.mp4?dl=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J79Hhz7w/D10.png" group-title="WELC♥ME️",LFC TV
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/440.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",SKYNET SPORTS HD
+
+
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKYNET SPORTS HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/108.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SPORT",SPORTSNET WORLD HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SPORTSNET WORLD HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/166.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS PREMIER LEAGUE HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/159.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORT FOOTBALL HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORT FOOTBALL HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/211.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS ACTION HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS ACTION HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/157.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS F1 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS F1 HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/160.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS MIX
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS MIX
 http://142.44.213.159:25461/live/expiresevery/1.3hours/161.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
 
-#EXTINF:-1 group-title="SULUK♥SPORT",STAR SPORT SELECT 1 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",STAR SPORT SELECT 1 HD
 http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6InJvYmVydDAwMjIwMDEiLCJwYXNzd29yZCI6InIyMDJ3NTQwMCJ9
-#EXTINF:-1 group-title="SULUK♥SPORT",STAR SPORT SELECT 2 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",STAR SPORT SELECT 2 HD
 http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6InJvYmVydDAwMjIwMDEiLCJwYXNzd29yZCI6InIyMDJ3NTQwMCJ9
 
-#EXTINF:-1 group-title="SULUK♥SPORT",SONY TEN 1 FHD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SONY TEN 1 FHD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SPORT",SONY TEN 2 FHD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SONY TEN 2 FHD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SPORT",SONY TEN 3 FHD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SONY TEN 3 FHD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SPORT",SONY SIX FHD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SONY SIX FHD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SPORT",SONY ESPN FHD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SONY ESPN FHD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
 
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 1 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 1 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 2 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 2 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 3 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 3 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 4 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 4 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 5 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 5 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 6 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 6 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 7 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 7 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 8 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 8 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 9 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 9 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD9.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 10 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 10 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD10.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 11 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 11 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD11.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 12 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 12 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD12.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 13 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 13 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD13.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 14 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 14 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 15 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 15 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD15.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
-#EXTINF:-1 group-title="SULUK♥SPORT",BeIN SPORTS 16 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BeIN SPORTS 16 HD
 http://95.170.215.120/hls/m3u8/Bein-Sport-HD16.m3u8?Suluk-Way-IPTV|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS F1
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS F1
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1001.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS ACTION
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS ACTION
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/998.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS NEWS
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS NEWS
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1003.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS MIX
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS MIX
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1002.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS PRE. LEAGUE
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS PRE. LEAGUE
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1000.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS GOLF
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS GOLF
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/999.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS CRICKET
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS CRICKET
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/997.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS MAIN EVENT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS MAIN EVENT
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/996.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SKY SPORTS BOX OFFICE PPV
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SKY SPORTS BOX OFFICE PPV
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1004.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
 
-#EXTINF:-1 group-title="SULUK♥SPORT",BT SPORTS 1
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BT SPORTS 1
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1005.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",BT SPORTS 2
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BT SPORTS 2
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1006.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",BT SPORTS 3
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BT SPORTS 3
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1007.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",BT SPORTS ESPN
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BT SPORTS ESPN
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1008.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
 
-#EXTINF:-1 group-title="SULUK♥SPORT",TSN 1
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",TSN 1
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1099.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",TSN 2
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",TSN 2
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1098.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",TSN 3
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",TSN 3
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1097.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",TSN 4
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",TSN 4
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1096.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",TSN 5
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",TSN 5
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1095.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",BEIN SPORTS US
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BEIN SPORTS US
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/350.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",BEIN SPORTS ESP
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",BEIN SPORTS ESP
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1668.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",FOX SPORTS 1 US
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",FOX SPORTS 1 US
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/541.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",FOX SPORTS 2 US
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",FOX SPORTS 2 US
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/384.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",FOX SOCCER PLUS US
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",FOX SOCCER PLUS US
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1502.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",NBCSN
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",NBCSN
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/367.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",SPORTS NET WORLD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",SPORTS NET WORLD
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1087.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
 
-#EXTINF:-1 group-title="SULUK♥SPORT",TENNIS
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",TENNIS
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/517.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",WWE
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",WWE
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/542.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",ESPN
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",ESPN
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/468.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",ESPN 2
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",ESPN 2
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/478.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",CARS TV
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",CARS TV
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1725.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",ELEVEN SPORT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",ELEVEN SPORT
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/2275.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
-#EXTINF:-1 group-title="SULUK♥SPORT",PREMIER SPORTS
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",PREMIER SPORTS
 http://gorilladick4.us:2086/live/pruitt1/pruitt1/1012.ts?Suluk-Way-IPTV|User-Agent=PotzGtvRebrand/V.2.2
 
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Sky Sports Football
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Sky Sports Football
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/4441?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Premiere Sports
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Premiere Sports
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/4592?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Sky Sports Premier League HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Sky Sports Premier League HD
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/2197?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Sky Sports Action HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Sky Sports Action HD
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/2209?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Sky Sports Main Event HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Sky Sports Main Event HD
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/2202?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Sky Sports Cricket HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Sky Sports Cricket HD
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/2206?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: Sky Sports F1 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: Sky Sports F1 HD
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/2205?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: BT Sport 1
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: BT Sport 1
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/5769?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: BT Sport 2
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: BT Sport 2
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/5768?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",UK: BT Sport ESPN HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",UK: BT Sport ESPN HD
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/2258?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: NBC SPORT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: NBC SPORT
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/5574?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: Bein Sports USA 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: Bein Sports USA 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/504?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: UFC TV 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: UFC TV 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/247?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: TSN 1 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: TSN 1 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6433?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: TSN 2 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: TSN 2 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6432?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: TSN 3 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: TSN 3 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6431?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: TSN 4 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: TSN 4 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6430?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: TSN 5 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: TSN 5 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6429?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: FOX SPORTS 1 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: FOX SPORTS 1 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6472?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
-#EXTINF:-1 group-title="SULUK♥SPORT",US: FOX SPORTS 2 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",US: FOX SPORTS 2 
 http://okaystreamz.tk:35580/tvapp_EN/N00ysPtrMJ/6471?Suluk-Way-IPTV|User-Agent=tvingoplus2018!RAMDI LibVLC/3.0.0-git
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Fox Sports 1 HD NL
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Fox Sports 1 HD NL
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/5.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Fox Sports 2 HD NL
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Fox Sports 2 HD NL
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/4.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Fox Sports 3 HD NL
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Fox Sports 3 HD NL
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/3.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Fox Sports 4 HD NL
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Fox Sports 4 HD NL
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/2.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Fox Sports 5 HD NL
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Fox Sports 5 HD NL
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/1.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Arena Sports 1 HD 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Arena Sports 1 HD 
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/18.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Arena Sports 2 HD 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Arena Sports 2 HD 
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/19.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Arena Sports 3 HD 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Arena Sports 3 HD 
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/20.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Arena Sports 4 HD 
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Arena Sports 4 HD 
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/21.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport TV1 PT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport TV1 PT
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/723.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport TV2 PT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport TV2 PT
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/8.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport TV3 PT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport TV3 PT
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/9.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport TV4 PT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport TV4 PT
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/726.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport TV5 PT
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport TV5 PT
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/727.ts?Suluk-Way-IPTV|User-Agent=sportstv
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport Klub 1 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport Klub 1 HD
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/87.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport Klub 2 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport Klub 2 HD
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/88.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Sport Klub 3 HD
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sport Klub 3 HD
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/89.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Sky Sport 1 HD Italy
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sky Sport 1 HD Italy
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/92.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Sky Sport 2 HD Italy
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sky Sport 2 HD Italy
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/93.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Sky Sport 3 HD Italy
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sky Sport 3 HD Italy
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/10.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Sky Sport 24 HD Italy
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sky Sport 24 HD Italy
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/11.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Sky Bundesliga HD1
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sky Bundesliga HD1
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/60.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",Sky Sport 1 HD Deutch Germany
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Sky Sport 1 HD Deutch Germany
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/58.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥SPORT",PTV Sports
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",PTV Sports
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/147.ts?Suluk-Way-IPTV|User-Agent=sportstv
 
-#EXTINF:-1 group-title="SULUK♥SPORT",Eir Sports1
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Eir Sports1
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/849.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
-#EXTINF:-1 group-title="SULUK♥SPORT",Eir Sports2
+#EXTINF:0 tvg-id="GlobalTV.pe" tvg-logo="https://i.postimg.cc/FzcRS0rM/D2.png" group-title="LOVE♥SPORT",Eir Sports2
 http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/850.ts?Suluk-Way-IPTV|User-Agent=freeapppsss
 
-
-#EXTINF:-1 group-title="SULUK♥MOVIES",SONY PIX FHD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SONY PIX FHD
 http://john.redflixhosting.services/url/cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
 
-#EXTINF:-1 group-title="SULUK♥MOVIES",Bein Movies 1 HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Bein Movies 1 HD
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/351.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Bein Movies 2 HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Bein Movies 2 HD
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/352.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Bein Movies 3 HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Bein Movies 3 HD
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/353.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Bein Movies 4 HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Bein Movies 4 HD
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/354.ts?Suluk-Way-IPTV|User-Agent=sportstv
 
-#EXTINF:-1 group-title="SULUK♥MOVIES",MBC 1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",MBC 1
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/23?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",MBC 2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",MBC 2
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/24?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",MBC 3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",MBC 3
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/25?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",MBC 4
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",MBC 4
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/26?Suluk-Way-IPTV|User-Agent=yacinetv1234
 
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN Action
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN Action
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/35?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN BOX OFFICE 1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN BOX OFFICE 1
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/32?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN BOX OFFICE 2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN BOX OFFICE 2
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/275?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN BOX OFFICE 3
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN BOX OFFICE 3
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/276?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN FESTIVAL
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN FESTIVAL
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/34?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN MOVIES 2H
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN MOVIES 2H
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/278?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN MOVIES Action +2
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN MOVIES Action +2
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/277?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN MOVIES First
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN MOVIES First
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/112?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN MOVIES HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN MOVIES HD
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/36?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN MOVIES Thriller
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN MOVIES Thriller
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/114?Suluk-Way-IPTV|User-Agent=yacinetv1234
-#EXTINF:-1 group-title="SULUK♥MOVIES",OSN MOVIES WORLD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",OSN MOVIES WORLD
 http://yacinetv1.ddns.net:8000/yacinetv555/yacinetv555/279?Suluk-Way-IPTV|User-Agent=yacinetv1234
 
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (Action&Adventure)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (Action&Adventure)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/65.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (Comedy)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (Comedy)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/66.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (Crime&Thriller)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (Crime&Thriller)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/67.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (Family)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (Family)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/69.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (Modern Greats)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (Modern Greats)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/70.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (Premiere)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (Premiere)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/71.ts?Suluk-Way-IPTV|User-Agent=sportstv
-#EXTINF:-1 group-title="SULUK♥MOVIES",Sky Movie (SciFi&Horror)
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Sky Movie (SciFi&Horror)
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/72.ts?Suluk-Way-IPTV|User-Agent=sportstv
 
-#EXTINF:-1 group-title="SULUK♥MOVIES",HGTV
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HGTV
 http://142.44.213.159:25461/live/expiresevery/1.3hours/92.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",Cinemax East
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",Cinemax East
 http://142.44.213.159:25461/live/expiresevery/1.3hours/74.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",FX
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",FX
 http://142.44.213.159:25461/live/expiresevery/1.3hours/77.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",HALLMARK
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HALLMARK
 http://142.44.213.159:25461/live/expiresevery/1.3hours/79.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",HBO
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",HBO
 http://142.44.213.159:25461/live/expiresevery/1.3hours/97.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",SYFY
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",SYFY
 http://142.44.213.159:25461/live/expiresevery/1.3hours/101.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",TLC
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",TLC
 http://142.44.213.159:25461/live/expiresevery/1.3hours/96.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",AMC
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",AMC
 http://142.44.213.159:25461/live/expiresevery/1.3hours/111.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",A&E
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",A&E
 http://142.44.213.159:25461/live/expiresevery/1.3hours/207.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",VICELAND
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",VICELAND
 http://142.44.213.159:25461/live/expiresevery/1.3hours/162.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",CINEMAX ACTION HD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",CINEMAX ACTION HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/199.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",FXX
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",FXX
 http://142.44.213.159:25461/live/expiresevery/1.3hours/186.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",TRUE Movies
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",TRUE Movies
 http://142.44.213.159:25461/live/expiresevery/1.3hours/205.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",VH-1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",VH-1
 http://142.44.213.159:25461/live/expiresevery/1.3hours/188.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥MOVIES",E! ENTERTAINMENT
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="LOVE♥MOVIES",E! ENTERTAINMENT
 http://142.44.213.159:25461/live/expiresevery/1.3hours/204.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
 
-#EXTINF:-1 group-title="SULUK♥SCIENCE",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",Discovery Channel
 http://142.44.213.159:25461/live/expiresevery/1.3hours/69.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",DISCOVERY SCIENCE HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/209.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",HISTORY HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/198.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",Investigation Discovery
 http://142.44.213.159:25461/live/expiresevery/1.3hours/86.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",LIFETIME
 http://142.44.213.159:25461/live/expiresevery/1.3hours/65.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",National Geographic
 http://142.44.213.159:25461/live/expiresevery/1.3hours/70.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",NAT GEO WILD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/189.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",ANIMAL PLANET HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/71.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",Discovery WORLD FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",Discovery WORLD FHD
 http://john.redflixhosting.services/url/mhms5.airtel.tv/PLTV/88888888/224/3221226205/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SCIENCE",Animal Planet FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",Animal Planet FHD
 http://john.redflixhosting.services/url/mhms5.airtel.tv/PLTV/88888888/224/3221226201/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SCIENCE",SONY BBC EARTH FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",SONY BBC EARTH FHD
 http://john.redflixhosting.services/url/mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/04.m3u8?SulukWay-IPTV|User-Agent=POCKETTVNEW
-#EXTINF:-1 group-title="SULUK♥SCIENCE",OUTDOOR CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",OUTDOOR CHANNEL HD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/182.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥SCIENCE",CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qBDCYj5q/L14.png" group-title="D♥CUMENTER",CRIME & INVESTIGATION
 http://142.44.213.159:25461/live/expiresevery/1.3hours/212.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
 
-#EXTINF:-1 group-title="SULUK♥KIDS",CARTOON Network
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",CARTOON Network
 http://142.44.213.159:25461/live/expiresevery/1.3hours/66.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥KIDS",Disney XD
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",Disney XD
 http://142.44.213.159:25461/live/expiresevery/1.3hours/67.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥KIDS",NICKELODEON
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",NICKELODEON
 http://142.44.213.159:25461/live/expiresevery/1.3hours/94.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥KIDS",DISNEY CHANNEL
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY CHANNEL
 http://142.44.213.159:25461/live/expiresevery/1.3hours/178.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥KIDS",DISNEY JUNIOR
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",DISNEY JUNIOR
 http://142.44.213.159:25461/live/expiresevery/1.3hours/179.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
-#EXTINF:-1 group-title="SULUK♥KIDS",NICK JR
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="LOVE♥KIDS",NICK JR
 http://142.44.213.159:25461/live/expiresevery/1.3hours/197.ts?Suluk-Way-IPTV|User-Agent=Exo45Play 19.0
